@@ -1,0 +1,6 @@
+{
+  "name": "ChordDeck",
+  "description": "A Spotify-inspired local music player with real HTML5 audio playback, playlists, and a 5-theme visual engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
